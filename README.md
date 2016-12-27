@@ -1,6 +1,7 @@
 # SimpleBreadthFirstSearch
 
 This is a code for running a simple Breadth First Search algorithm.
+The actual code for this example is in the /src folder
 
 The input is provided in a very simple manner in App.java where a vertices are first created and then references to vertices are added to the adjacency list of each vertex. 
 
